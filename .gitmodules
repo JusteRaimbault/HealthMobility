@@ -1,0 +1,3 @@
+[submodule "Models/h24"]
+	path = Models/h24
+	url = git@github.com:Geographie-cites/h24.git
